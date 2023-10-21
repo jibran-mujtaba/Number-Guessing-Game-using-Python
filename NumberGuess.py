@@ -15,9 +15,6 @@ if guess.isdigit():
 else:
     print("Please type a number not a string.")
 
-
-
-
 if guess==number:
     print("Congratulations! You made it in first attempt.")
     print("You got "+str(amount)+" in your account.")
